@@ -102,7 +102,7 @@ flex-wrap: wrap;
   background-position: center;
   background-repeat:no-repeat;
   background-size: cover;
-  background-image:url('https://www.revistaversar.com.br/wp-content/uploads/2019/11/thumbnail_1-696x464.jpg');
+  background-image:url('http://seuninico.com.br/wp-content/uploads/2015/10/Seu-Ninico-520-800x533.png');
   padding:30%;
   margin-top: 30%;
   display: flex;
@@ -142,7 +142,7 @@ flex-wrap: wrap;
   border-style:none !important;
   border-radius: 14px !important;
   width:100% !important;
-  background-color: #14213D !important;
+  background-color: #d1d7e2 !important;
 }
 
 .button-entrar-app:disabled,
